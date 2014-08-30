@@ -1,0 +1,5 @@
+C:\Users\Pat\Documents\Visual Studio 2010\Projects\PizzaCompany\PizzaCompany\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pat\Documents\Visual Studio 2010\Projects\PizzaCompany\PizzaCompany\bin\PizzaCompany.dll
+C:\Users\Pat\Documents\Visual Studio 2010\Projects\PizzaCompany\PizzaCompany\bin\PizzaCompany.pdb
+C:\Users\Pat\Documents\Visual Studio 2010\Projects\PizzaCompany\PizzaCompany\obj\Debug\PizzaCompany.dll
+C:\Users\Pat\Documents\Visual Studio 2010\Projects\PizzaCompany\PizzaCompany\obj\Debug\PizzaCompany.pdb
